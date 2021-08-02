@@ -2,3 +2,4 @@ Bencher-Scenario-CryptDicewareWordlistModules-*
 .build
 *~
 nytprof*
+.DS_Store
